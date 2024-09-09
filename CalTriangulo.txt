@@ -1,0 +1,13 @@
+import java.util.Scanner;
+public class areaRectangular{}
+Scanner input = new Scanner(System.in)
+float area,perimetro,base altura;
+System.out.println("Ingresa la base del rectangulo");
+base = input.nexFloat();
+System.out.println("inglesa la altura")
+altura = input.nexFloat();
+area = base * altura;
+perimetro = (base + altura) * 2;
+System.out.println("El area del rectangulo es: "+area+"cm2");
+System.out.println("El perimetro es:"+perimetro" cm);
+input.close

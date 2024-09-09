@@ -1,0 +1,30 @@
+public class Main {
+    public static void main (String[] args){
+
+   int edad = 18;
+   string texto = " Hola";
+   /* == Igual
+   != Distinto
+   < Menos
+   > Mayor
+   <= Menor e Igual
+   >= Mayor e igual
+     */
+   
+
+  if(Edad >= 18 ){
+    System.out.println("Puede conducir Vehiculo");
+
+     {
+    else{
+     System.out.println("Puede conducir Vehiculo"); 
+     }
+
+
+      
+     }
+    
+    }  
+ }
+
+}
